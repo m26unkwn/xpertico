@@ -1,0 +1,142 @@
+[
+  {
+    "category": "Medical",
+    "email": "edoc19@gmail.com",
+    "name": "Dr. Doe",
+    "phone": 902938921,
+    "subcategory": "Neurology",
+    "talktime": 100,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc20@gmail.com",
+    "name": "Dr. John",
+    "phone": 902877921,
+    "subcategory": "Phsychology",
+    "talktime": 99,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc21@gmail.com",
+    "name": "Dr. Kamala",
+    "phone": 902877921,
+    "subcategory": "Dental",
+    "talktime": 89,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc22@gmail.com",
+    "name": "Dr. Barak",
+    "phone": 902877921,
+    "subcategory": "General",
+    "talktime": 75,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc23@gmail.com",
+    "name": "Dr. Joe",
+    "phone": 902877921,
+    "subcategory": "Oncology",
+    "talktime": 67,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc24@gmail.com",
+    "name": "Dr. Donald",
+    "phone": 902877921,
+    "subcategory": "Urology",
+    "talktime": 110,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc25@gmail.com",
+    "name": "Dr. Manmohan",
+    "phone": 902877921,
+    "subcategory": "Dental",
+    "talktime": 73,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc26@gmail.com",
+    "name": "Dr. MK",
+    "phone": 902877921,
+    "subcategory": "General",
+    "talktime": 105,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc27@gmail.com",
+    "name": "Dr. JJ",
+    "phone": 902877921,
+    "subcategory": "Oncology",
+    "talktime": 56,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc28@gmail.com",
+    "name": "Dr. Bsy",
+    "phone": 902877921,
+    "subcategory": "Urology",
+    "talktime": 49,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc29@gmail.com",
+    "name": "Dr. Namo",
+    "phone": 902877921,
+    "subcategory": "General",
+    "talktime": 60,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc30@gmail.com",
+    "name": "Dr. Vladimir",
+    "phone": 902877921,
+    "subcategory": "Oncology",
+    "talktime": 70,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc31@gmail.com",
+    "name": "Dr. Xi",
+    "phone": 902877921,
+    "subcategory": "Urology",
+    "talktime": 85,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  },
+  {
+    "category": "Medical",
+    "email": "edoc32@gmail.com",
+    "name": "Dr. Shinzo",
+    "phone": 902938921,
+    "subcategory": "Dentist",
+    "talktime": 65,
+    "title": "Specialist",
+    "pic": "https://image.freepik.com/free-vector/cute-penguin-flying-with-balloons-cartoon-vector-illustration-animal-love-concept-isolated-vector-flat-cartoon-style_138676-2016.jpg"
+  }
+]

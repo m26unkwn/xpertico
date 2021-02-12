@@ -1,0 +1,21 @@
+:root {
+  --bg-accent: #3a5bfc;
+  --bg-white: #ffffff;
+  --bg-light-white: #e6e6e6;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+li {
+  list-style: none;
+}
+.main {
+  width: 100%;
+  min-height: 100vh;
+}
